@@ -17,7 +17,7 @@ This repository serves as my organized workspace for all course requirements, in
 
 ## 👤 Student Information
 
-- **Name:** Gian Kenneth A. Vendiola
+- **Name:** Marc Greg D. Corpuz
 - **Course/Section:** Bachelor of Science in Information Technology (BSIT) – 3rd Year
 - **Instructor:** _______________________
 - **School Year:** 2026–2027
